@@ -1,4 +1,7 @@
-### Hi there 👋
+### ![download](https://user-images.githubusercontent.com/86232890/123831199-46886900-d92e-11eb-974e-12041ed2035a.png) 👋 I'm Sophia
+
+Salam all,
+My field of study is in Information Management and Information Systems. I also try to added and upgraded my knowledge and skills in several training programs or boot camps in other fields.
 
 <!--
 **ladyayasophia/ladyayasophia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,6 +9,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
