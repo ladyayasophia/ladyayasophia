@@ -1,7 +1,12 @@
-### ![download](https://user-images.githubusercontent.com/86232890/123831199-46886900-d92e-11eb-974e-12041ed2035a.png) 👋 I'm Sophia
+### ![f5a0b6d052aa6cb697f8979916143112](https://user-images.githubusercontent.com/86232890/123932956-23a49600-d9bc-11eb-9695-5408cdb19aad.gif) 👋 I'm Sophia
 
-Salam all,
-My field of study is in Information Management and Information Systems. I'm interested in learning something new, and try to took advantage of my free time by taking to added and upgraded my knowledge and skills in several training programs or boot camps in "big data" and other fields.
+
+
+Hi all,
+
+I wish you all stay healthy and always keep the health protocol. 
+One of the benefits I could felt when more locked at home because the Covid-19 pandemic, it is much more time I can used to learn many new things to upgraded and improve my knowledges and skills, that are interest me, one of which is in Data Science.
+
 
 <!--
 **ladyayasophia/ladyayasophia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
