@@ -5,7 +5,7 @@
 Hi all,
 
 I wish you all stay healthy and always keep the health protocol. 
-One of the benefits I could felt when more locked at home because the Covid-19 pandemic, it is much more time I can used to learn many new things to upgraded and improve my knowledges and skills, that are interest me, one of which is in Data Science.
+One of the benefits I could felt when more locked at home because the Covid-19 pandemic, it is much more time I can used to learn many new things to upgraded and improve my knowledges and skills, that are am interest, one of which is in Data Science.
 
 
 <!--
