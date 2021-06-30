@@ -1,7 +1,7 @@
 ### ![download](https://user-images.githubusercontent.com/86232890/123831199-46886900-d92e-11eb-974e-12041ed2035a.png) 👋 I'm Sophia
 
 Salam all,
-My field of study is in Information Management and Information Systems. I also try to added and upgraded my knowledge and skills in several training programs or boot camps in other fields.
+My field of study is in Information Management and Information Systems. I'm interested in learning something new, and try to took advantage of my free time by taking to added and upgraded my knowledge and skills in several training programs or boot camps in "big data" and other fields.
 
 <!--
 **ladyayasophia/ladyayasophia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
