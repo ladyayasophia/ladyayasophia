@@ -1,4 +1,4 @@
-### ![f5a0b6d052aa6cb697f8979916143112](https://user-images.githubusercontent.com/86232890/123932956-23a49600-d9bc-11eb-9695-5408cdb19aad.gif) 👋 I'm Sophia
+### ![tenorsalam1](https://user-images.githubusercontent.com/86232890/124126852-4a8ac700-daa5-11eb-9b9e-f9983ef3647c.gif)     👋 I'm Sophia
 
 
 
