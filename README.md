@@ -1,4 +1,6 @@
-### ![tenorsalam1](https://user-images.githubusercontent.com/86232890/124126852-4a8ac700-daa5-11eb-9b9e-f9983ef3647c.gif)     👋 I'm Sophia
+# Salam....👋 I'm Sophia
+
+### ![tenorsalam1](https://user-images.githubusercontent.com/86232890/124126852-4a8ac700-daa5-11eb-9b9e-f9983ef3647c.gif)    
 
 
 
@@ -23,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
